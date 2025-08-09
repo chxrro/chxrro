@@ -1,11 +1,14 @@
-# <p align="center">hey, I'm Chirag :)</p> 
+# <p align="center">hey, I'm ```Chirag``` :)</p> 
+
+Contact me:
+
+[![Discord](https://img.shields.io/badge/Discord-churro.5-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/476148477487874048)
 
 ## About Me 
-I'm currently a computer science student at the University of Texas at Dallas. 
+```I'm currently a computer science student at the University of Texas at Dallas.```
 
 ### **Currently, I'm building:**
-
-Colophon, a tool to make yearbook production simpler. I'm also working on a project with the CAN bus on Teslas to read and log data and use CAN injection to send it commands.
+```Colophon, a tool to make yearbook production simpler. I'm also working on a project with the CAN bus on Teslas to read and log data and use CAN injection to send it commands.```
 
 ### I’m currently learning: 
 <p align="left">
@@ -29,7 +32,7 @@ Colophon, a tool to make yearbook production simpler. I'm also working on a proj
 
 ### Projects
 ***
-Below are some projects I've contributed to:
+**Below are some projects I've contributed to:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vortx3735&repo=2025-bot&theme=dark&show_owner=true&description_lines_count=2&card_width=400)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vortx3735&repo=VorTXObsidian&theme=dark&show_owner=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats) [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46b3489d3254e0d1443f9f0d3c3b36d1&theme=dark&show_owner=true&description_lines_count=3)](https://gist.github.com/chxrro/46b3489d3254e0d1443f9f0d3c3b36d1)
 
