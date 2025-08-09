@@ -34,5 +34,5 @@ Contact me:
 ***
 **Below are some projects I've contributed to:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vortx3735&repo=2025-bot&theme=dark&show_owner=true&description_lines_count=2&card_width=400)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vortx3735&repo=VorTXObsidian&theme=dark&show_owner=true&description_lines_count=2)](https://github.com/anuraghazra/github-readme-stats) [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46b3489d3254e0d1443f9f0d3c3b36d1&theme=dark&show_owner=true&description_lines_count=3)](https://gist.github.com/chxrro/46b3489d3254e0d1443f9f0d3c3b36d1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vortx3735&repo=2025-bot&theme=dark&show_owner=true&description_lines_count=2&card_width=400)](https://github.com/Vortx3735/2025-Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vortx3735&repo=VorTXObsidian&theme=dark&show_owner=true&description_lines_count=2)](https://github.com/Vortx3735/VorTXObsidian) [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=46b3489d3254e0d1443f9f0d3c3b36d1&theme=dark&show_owner=true&description_lines_count=3)](https://gist.github.com/chxrro/46b3489d3254e0d1443f9f0d3c3b36d1)
 
