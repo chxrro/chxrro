@@ -28,7 +28,7 @@ Contact me:
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-[![Chxrro's GitHub stats](https://github-readme-stats.vercel.app/api?username=chxrro&show_icons=true&theme=transparent&rank_icon=github&card_width=1000&line_height=30&include_all_commits=true&text_bold=false&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=6CC644&ring_color=6CC644)](https://github.com/anuraghazra/github-readme-stats)
+[![Chxrro's GitHub stats](https://github-readme-stats.vercel.app/api?username=chxrro&show_icons=true&theme=dark#gh-dark-mode-only&rank_icon=github&card_width=1000&line_height=30&include_all_commits=true&text_bold=false&hide_border=true&title_color=ffffff&icon_color=6CC644&bg_color=00000000&ring_color=6CC644)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 ***
